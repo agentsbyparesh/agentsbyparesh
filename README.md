@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.svg" alt="Paresh — AI agents and cloud apps for small businesses" width="100%">
+</p>
+
 # Hi, I'm Paresh 👋
 
 I build practical AI tools and cloud apps for small businesses and community organizations, through my company **Storelyft LLC**.
